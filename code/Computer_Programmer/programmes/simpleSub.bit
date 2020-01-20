@@ -1,0 +1,6 @@
+LDA 4
+SUB 5
+OUT
+HLT
+PUT 15
+PUT 35

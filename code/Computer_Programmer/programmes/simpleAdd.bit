@@ -1,0 +1,6 @@
+LDA 4
+ADD 5
+OUT
+HLT
+PUT 25
+PUT 25

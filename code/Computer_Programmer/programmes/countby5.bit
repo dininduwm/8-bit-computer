@@ -1,0 +1,4 @@
+ADD 3
+OUT
+JMP 0
+PUT 5

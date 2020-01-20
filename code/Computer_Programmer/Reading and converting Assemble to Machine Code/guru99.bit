@@ -1,0 +1,6 @@
+PUT 35
+PUT 45
+LDA 0
+ADD 1
+OUT
+HLT
